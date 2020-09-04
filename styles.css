@@ -327,7 +327,7 @@ nav {
     width: 100%;
     text-align: center;
     padding: 40px;
-    background-color: #9cada4;
+    background-image: linear-gradient(to bottom, #9cada4,black);
 }
 
 .social-icon {
